@@ -1,0 +1,49 @@
+{
+    "inhabitants": [
+        {
+        "id": 0,
+        "first-name": "philip",
+        "last-name": "golden",
+        "interests": [
+            {
+                "interestsid": "0",
+                "interest": "eating"
+            },
+            {
+                "interestid": "1",
+                "interest": "playing video games"
+            }
+        ]
+        },
+        {
+        "id": "1",
+        "first-name": "emi",
+        "last-name": "fox",
+        "interests": [
+            {
+                "interestsid": "0",
+                "interest": "eating"
+            },
+            {
+                "interestid": "1",
+                "interest": "playing video games"
+            }
+        ]
+        },
+        {
+        "id": "2",
+        "first-name": "binx",
+        "last-name": "cat",
+        "interests": [
+            {
+                "interestsid": "0",
+                "interest": "dance dance dance"
+            },
+            {
+                "interestid": "1",
+                "interest": "'meow meow meow'"
+            }
+        ]
+        }
+    ]
+}
